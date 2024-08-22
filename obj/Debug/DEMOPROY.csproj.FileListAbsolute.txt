@@ -1,0 +1,11 @@
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\bin\Debug\DEMOPROY.exe.config
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\bin\Debug\DEMOPROY.exe
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\bin\Debug\DEMOPROY.pdb
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\obj\Debug\DEMOPROY.csproj.AssemblyReference.cache
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\obj\Debug\DEMOPROY.csproj.SuggestedBindingRedirects.cache
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\obj\Debug\DEMOPROY.Postulante.resources
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\obj\Debug\DEMOPROY.Properties.Resources.resources
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\obj\Debug\DEMOPROY.csproj.GenerateResource.cache
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\obj\Debug\DEMOPROY.csproj.CoreCompileInputs.cache
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\obj\Debug\DEMOPROY.exe
+C:\Users\JHOEL PERALTA\source\repos\DEMOPROY\obj\Debug\DEMOPROY.pdb
